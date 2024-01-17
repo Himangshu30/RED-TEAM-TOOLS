@@ -9,7 +9,7 @@ This github repository contains a collection of **130+** **tools** and **resourc
 
 Some of the tools may be specifically designed for red teaming, while others are more general-purpose and can be adapted for use in a red teaming context.
 
-> 🔗 If you are a Blue Teamer, check out 
+> 🔗 If you are a Blue Teamer, check out https://github.com/Himangshu30/BLUE-TEAM-TOOLS
 
 > **Warning** 
 > 
